@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-payment-operations-react-inertia",
+  "capabilityKey": "planned:ecommerce:payment-operations",
+  "presentation": "laravel-inertia-react",
+  "package": "@liberusoftware/module-ecommerce-payment-operations-react-inertia",
+  "foundation": "module-boilerplate-react-inertia",
+  "foundationCommit": "5a2d7f53327e9648efd68af033e1876ce1cf20f0",
+  "canonicalPlan": "projects/ecommerce/nextjs/payment-operations.md",
+  "presentationPlan": "projects/ecommerce/react/payment-operations.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
